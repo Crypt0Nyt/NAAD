@@ -2,6 +2,8 @@ package Tasks0;
 
 import java.util.Scanner;
 
+//Program to Print an Integer entered by an user
+
 public class J01 {
     public static void main(String[] args) {
 
