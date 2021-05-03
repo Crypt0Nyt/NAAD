@@ -67,3 +67,7 @@ Java Program to Check if a String is Empty or Null
 #### [](https://github.com/LavishSwarnkar/NAAD2/blob/master/src/com/streamliners/task0/README.md#only--1-3-4-5-7-9-10-11-12-13)(only 1, 3, 4, 5, 7, 9, 10, 11, 12, 13)
 
 *Check program list on the website*
+
+
+
+![Demo](C:\Users\hrith\Downloads\Apple\Screenshot%202021-04-25%20201843.png)
